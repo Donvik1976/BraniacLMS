@@ -15,7 +15,7 @@
             ],
             "django": true,
             "justMyCode": true
-        }
+        },
         {
             "name": "Selenium test",
             "type": "python",
